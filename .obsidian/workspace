@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "42b96a9e01144072",
+        "id": "af49918b035df0ba",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,10 +120,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "42b96a9e01144072",
+  "active": "d4bc467bbbec9c35",
   "lastOpenFiles": [
-    "한_권으로_읽는_컴퓨터_구조와_프로그래밍/1_컴퓨터_내부의_언어_체계.md",
     "README.md",
+    "한_권으로_읽는_컴퓨터_구조와_프로그래밍/1_컴퓨터_내부의_언어_체계.md",
     "한.md"
   ]
 }
