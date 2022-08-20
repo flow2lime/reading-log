@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "한_권으로_읽는_컴퓨터_구조와_프로그래밍/1_컴퓨터_내부의_언어_체계.md",
+            "file": "한_권으로_읽는_컴퓨터_구조와_프로그래밍/2_전자_회로의_조합_논리.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b8f2f3016cdad25f",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "한_권으로_읽는_컴퓨터_구조와_프로그래밍/1_컴퓨터_내부의_언어_체계.md",
+                "file": "한_권으로_읽는_컴퓨터_구조와_프로그래밍/2_전자_회로의_조합_논리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "한_권으로_읽는_컴퓨터_구조와_프로그래밍/1_컴퓨터_내부의_언어_체계.md",
+                "file": "한_권으로_읽는_컴퓨터_구조와_프로그래밍/2_전자_회로의_조합_논리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "한_권으로_읽는_컴퓨터_구조와_프로그래밍/1_컴퓨터_내부의_언어_체계.md"
+                "file": "한_권으로_읽는_컴퓨터_구조와_프로그래밍/2_전자_회로의_조합_논리.md"
               }
             }
           }
@@ -131,6 +132,7 @@
   "active": "4c17a8fde6728a3d",
   "lastOpenFiles": [
     "한_권으로_읽는_컴퓨터_구조와_프로그래밍/1_컴퓨터_내부의_언어_체계.md",
+    "한_권으로_읽는_컴퓨터_구조와_프로그래밍/2_전자_회로의_조합_논리.md",
     "README.md",
     "한.md"
   ]
